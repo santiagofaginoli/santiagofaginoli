@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me especializo en el desarrollo de proyectos front-end creativos y elegantes. Soy conocedor de varios lenguajes de programación. Estoy siempre buscando desafios para superarme a mi mismo.
+I specialize in the development of creative and elegant front-end projects. With a passion for technology and an eye for design, I strive to create attractive and functional user interfaces that enhance the user experience.
 
 
 ## 🌐 Socials:
